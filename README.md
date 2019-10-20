@@ -2,7 +2,7 @@
 
 [MEVN](https://www.youtube.com/watch?v=ARIzrNwA5HQ&t=2s) Mongo, Express, VueJs y Node. Un Fullstack
 
-Fazt, nostrae una lista de tareas, algo muy sencillo solo modo explicativo como usar este fullstack de node llamado MEVN, usando Javascript ES6 y Babel, tambien se usa Webpack para el frontend. - Interezante porque nos muestra una forma de funcionamiento de un fullstack.
+Fazt, elabora una lista de tareas, algo muy sencillo solo modo explicativo como usar este fullstack de node llamado MEVN, usando Javascript ES6 y Babel, tambien se usa Webpack para el frontend. - Interezante porque nos muestra una forma de funcionamiento de un fullstack.
 
 ## Running the app
 
